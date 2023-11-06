@@ -16,7 +16,7 @@ function Feed() {
 
 function Profile() {
   return (
-    <View style={{ flex: 1, backgroundColor: '#fff'}}>
+    <View style={{ flex: 1}}>
       <Text style={{ padding: 15, paddingBottom: -20, textAlign: 'justify'}}>Atualmente, estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em linguagens como Java, Javascript e HTML. Desenvolvi
        projetos pessoais e em grupo para aplicar conhecimentos e estou em busca constante de atualização e crescimento profissional. Busco contribuir em projetos desafiadores e inovadores.</Text>
 
